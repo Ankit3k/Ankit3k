@@ -5,8 +5,7 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit3k)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working as a Student
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
