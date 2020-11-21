@@ -21,4 +21,4 @@
 
 
 <p align="center">
-<a href="https://github.com/Ankit3k/bugbounty-cheatsheet"><img title="bugbounty-cheatsheet" src="https://github-readme-stats.vercel.app/api/pin/?username=htr-tech&repo=bugbounty-cheatsheet&theme=dark"></a>
+<a href="https://github.com/Ankit3k/bugbounty-cheatsheet"><img title="bugbounty-cheatsheet" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit3k&repo=bugbounty-cheatsheet&theme=dark"></a>
