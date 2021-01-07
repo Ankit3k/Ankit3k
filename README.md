@@ -19,6 +19,12 @@
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit3k&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ankit3k's GitHub Stats" />
+<p align="center"> 
+  <b>Visitors count</b><br>
+  <img src="https://profile-counter.glitch.me/Ankit3k/count.svg" />
+</p>
+
 <p align="center">
 <a href="https://github.com/Ankit3k"><img title="Github" src="https://img.shields.io/badge/Github-Ankit3k-blue?style=for-the-badge&logo=github"></a>
 <!--
