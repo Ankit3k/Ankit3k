@@ -3,9 +3,9 @@
 <!--
 **Ankit3k/Ankit3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ankit3k&show_icons=true&theme=radical)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=Ankit3k&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit3k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit3k)](https://github.com/Ankit3k)
 
 
 <!--
@@ -19,7 +19,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit3k&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ankit3k's GitHub Stats" />
 <p align="center"> 
   <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/Ankit3k/count.svg" />
